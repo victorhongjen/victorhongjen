@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Victor
 - 👀 I’m interested in becoming a Web Developer
 - 🌱 I’m currently learning full stack web development with JavasScript and Ruby
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking to collaborate on projects to add to my portfolio
 - 📫 You can reach me via my email: victorwang23@yahoo.com
